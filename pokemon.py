@@ -12,3 +12,8 @@ if __name__ == '__main__':
             for pokemon in results:
                 name = pokemon['name']
                 print(name)
+#Script de python que consulta el api de pokemon 
+# para listar los nombres de pokemon pero se le agrego
+# interacción para que listaras más pokemons segun se vaya requiriendo.
+# Contribuyo: <Angel Gael Villegas Rocha>
+# Fecha: < 13/09/2022>
